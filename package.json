@@ -1,0 +1,23 @@
+{
+  "name": "@fand/eslint-plugin-no-zangyo",
+  "version": "0.0.0",
+  "description": "ESLint plugin to disallow zangyo.",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin"
+  ],
+  "author": "amagitakayosi",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo TBD"
+  },
+  "dependencies": {
+    "moment": "^2.18.1",
+    "requireindex": "~1.1.0"
+  },
+  "devDependencies": {
+    "eslint": "~3.9.1"
+  },
+  "license": "ISC"
+}
