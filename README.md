@@ -7,7 +7,7 @@
 ## Installation
 
 ```
-$ npm i -D eslint @fand/eslint-plugin-only-ascii
+$ npm i -D eslint @fand/no-zangyo
 ```
 
 ## Usage
